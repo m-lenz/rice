@@ -1,0 +1,8 @@
+rofi.color-enabled: true
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+rofi.color-window: argb:5089b6a2, argb:802f2f2f, #89B6A2
+
+rofi.color-normal: argb:00000000, #89b6a2, argb:00000000, #89b6a2, #2f2f2f
+rofi.separator-style: none
+rofi.lines: 8
+rofi.width: 35
